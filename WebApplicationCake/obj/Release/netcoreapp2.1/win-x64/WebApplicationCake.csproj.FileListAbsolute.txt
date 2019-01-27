@@ -1,0 +1,17 @@
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\bin\Release\netcoreapp2.1\win-x64\WebApplicationCake.exe
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\bin\Release\netcoreapp2.1\win-x64\WebApplicationCake.deps.json
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\bin\Release\netcoreapp2.1\win-x64\WebApplicationCake.runtimeconfig.json
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\bin\Release\netcoreapp2.1\win-x64\WebApplicationCake.runtimeconfig.dev.json
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\bin\Release\netcoreapp2.1\win-x64\WebApplicationCake.dll
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\bin\Release\netcoreapp2.1\win-x64\WebApplicationCake.pdb
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\obj\Release\netcoreapp2.1\win-x64\WebApplicationCake.csprojAssemblyReference.cache
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\obj\Release\netcoreapp2.1\win-x64\WebApplicationCake.csproj.CoreCompileInputs.cache
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\obj\Release\netcoreapp2.1\win-x64\WebApplicationCake.RazorAssemblyInfo.cache
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\obj\Release\netcoreapp2.1\win-x64\WebApplicationCake.RazorAssemblyInfo.cs
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\obj\Release\netcoreapp2.1\win-x64\WebApplicationCake.AssemblyInfoInputs.cache
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\obj\Release\netcoreapp2.1\win-x64\WebApplicationCake.AssemblyInfo.cs
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\obj\Release\netcoreapp2.1\win-x64\WebApplicationCake.RazorTargetAssemblyInfo.cache
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\obj\Release\netcoreapp2.1\win-x64\WebApplicationCake.dll
+C:\Users\bbaptist\source\repos\WebApplicationCake\WebApplicationCake\obj\Release\netcoreapp2.1\win-x64\WebApplicationCake.pdb
