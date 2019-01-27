@@ -73,7 +73,11 @@ var buildSettings = new DotNetCoreBuildSettings
     .IsDependentOn("Publish")
     .Does(() =>
     {
+	   Information("Zip Task Started!!!!");
+
        Zip("./publish", "publish.zip");
+
+	   Information("Zip Task Completed!!!!");
     });
 
 	RunTarget(target);
